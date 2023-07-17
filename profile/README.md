@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+đây là Organization cho nhóm dự án cho kỳ Fall 2023 chuyên ngành Lập trình máy tính và thiết bị di động tại FPOLY Hà Nội
 <!--
 
 **Here are some ideas to get you started:**
